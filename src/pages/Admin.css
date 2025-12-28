@@ -1,0 +1,14 @@
+.admin-container {
+    min-height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.admin-layout {
+    display: flex;
+    padding-top: 60 px;
+}
+
+.main-content{
+    flex: 1;
+    margin-left: 280px;;
+}
